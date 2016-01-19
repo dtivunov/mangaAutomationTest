@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="deezerAutomationTest" />
+        <module name="mangaAutomationTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="deezerAutomationTest" target="1.5" />
+      <module name="mangaAutomationTest" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
