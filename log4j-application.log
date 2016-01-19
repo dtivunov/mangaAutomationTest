@@ -1,0 +1,224 @@
+2016-01-18 16:55:31 INFO  Steps:23 - Browser started
+2016-01-18 16:55:34 INFO  LoginPage:42 - Login page opened
+2016-01-18 16:57:19 INFO  Steps:23 - Browser started
+2016-01-18 16:57:19 INFO  LoginPage:42 - Login page opened
+2016-01-18 16:57:23 INFO  LoginPage:49 - Login done
+2016-01-18 16:57:26 INFO  LoginPage:52 - Login performed
+2016-01-19 14:16:59 INFO  Steps:24 - Browser started
+2016-01-19 14:17:01 INFO  FindManga:24 - Search page opened
+2016-01-19 14:17:04 INFO  FindManga:43 - Search done
+2016-01-19 14:17:05 INFO  FindManga:45 - Search performed
+2016-01-19 15:04:00 INFO  Steps:25 - Browser started
+2016-01-19 15:04:01 INFO  AddManga:24 - Search page opened
+2016-01-19 15:04:05 INFO  AddManga:55 - Search done
+2016-01-19 15:04:37 INFO  Steps:25 - Browser started
+2016-01-19 15:04:38 INFO  AddManga:24 - Search page opened
+2016-01-19 15:04:42 INFO  AddManga:55 - Search done
+2016-01-19 15:06:17 INFO  Steps:25 - Browser started
+2016-01-19 15:06:19 INFO  AddManga:24 - Search page opened
+2016-01-19 15:06:23 INFO  AddManga:55 - Search done
+2016-01-19 15:12:19 INFO  Steps:25 - Browser started
+2016-01-19 15:12:21 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:12:24 INFO  LoginPage:49 - Login done
+2016-01-19 15:12:26 INFO  LoginPage:52 - Login performed
+2016-01-19 15:12:27 INFO  AddManga:24 - Search page opened
+2016-01-19 15:12:30 INFO  AddManga:55 - Search done
+2016-01-19 15:13:29 INFO  Steps:25 - Browser started
+2016-01-19 15:13:32 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:13:33 INFO  LoginPage:49 - Login done
+2016-01-19 15:13:37 INFO  LoginPage:52 - Login performed
+2016-01-19 15:13:38 INFO  AddManga:24 - Search page opened
+2016-01-19 15:13:42 INFO  AddManga:55 - Search done
+2016-01-19 15:15:31 INFO  Steps:25 - Browser started
+2016-01-19 15:15:32 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:15:33 INFO  LoginPage:49 - Login done
+2016-01-19 15:15:36 INFO  LoginPage:52 - Login performed
+2016-01-19 15:15:36 INFO  AddManga:24 - Search page opened
+2016-01-19 15:15:40 INFO  AddManga:55 - Search done
+2016-01-19 15:18:03 INFO  Steps:25 - Browser started
+2016-01-19 15:18:04 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:18:05 INFO  LoginPage:49 - Login done
+2016-01-19 15:18:08 INFO  LoginPage:52 - Login performed
+2016-01-19 15:18:08 INFO  AddManga:24 - Search page opened
+2016-01-19 15:18:11 INFO  AddManga:58 - Search done
+2016-01-19 15:18:50 INFO  Steps:25 - Browser started
+2016-01-19 15:18:51 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:18:52 INFO  LoginPage:49 - Login done
+2016-01-19 15:18:55 INFO  LoginPage:52 - Login performed
+2016-01-19 15:18:55 INFO  AddManga:24 - Search page opened
+2016-01-19 15:18:59 INFO  AddManga:58 - Search done
+2016-01-19 15:22:38 INFO  Steps:25 - Browser started
+2016-01-19 15:22:38 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:22:43 INFO  LoginPage:49 - Login done
+2016-01-19 15:22:46 INFO  LoginPage:52 - Login performed
+2016-01-19 15:22:47 INFO  AddManga:24 - Search page opened
+2016-01-19 15:22:50 INFO  AddManga:58 - Search done
+2016-01-19 15:25:36 INFO  Steps:25 - Browser started
+2016-01-19 15:25:39 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:25:42 INFO  LoginPage:49 - Login done
+2016-01-19 15:25:45 INFO  LoginPage:52 - Login performed
+2016-01-19 15:25:47 INFO  AddManga:24 - Search page opened
+2016-01-19 15:25:50 INFO  AddManga:58 - Search done
+2016-01-19 15:25:54 INFO  AddManga:65 - Search performed
+2016-01-19 15:26:15 INFO  Steps:25 - Browser started
+2016-01-19 15:26:17 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:26:18 INFO  LoginPage:49 - Login done
+2016-01-19 15:26:20 INFO  LoginPage:52 - Login performed
+2016-01-19 15:26:21 INFO  AddManga:24 - Search page opened
+2016-01-19 15:26:25 INFO  AddManga:58 - Search done
+2016-01-19 15:27:02 INFO  Steps:25 - Browser started
+2016-01-19 15:27:03 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:27:06 INFO  LoginPage:49 - Login done
+2016-01-19 15:27:09 INFO  LoginPage:52 - Login performed
+2016-01-19 15:27:10 INFO  AddManga:24 - Search page opened
+2016-01-19 15:27:14 INFO  AddManga:58 - Search done
+2016-01-19 15:27:19 INFO  AddManga:65 - Search performed
+2016-01-19 15:29:09 INFO  Steps:25 - Browser started
+2016-01-19 15:29:10 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:29:12 INFO  LoginPage:49 - Login done
+2016-01-19 15:29:14 INFO  LoginPage:52 - Login performed
+2016-01-19 15:29:15 INFO  AddManga:24 - Search page opened
+2016-01-19 15:29:18 INFO  AddManga:58 - Search done
+2016-01-19 15:29:26 INFO  AddManga:67 - Search performed
+2016-01-19 15:32:42 INFO  Steps:25 - Browser started
+2016-01-19 15:32:45 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:32:47 INFO  LoginPage:49 - Login done
+2016-01-19 15:32:52 INFO  LoginPage:52 - Login performed
+2016-01-19 15:32:53 INFO  AddManga:24 - Search page opened
+2016-01-19 15:32:56 INFO  AddManga:58 - Search done
+2016-01-19 15:33:01 INFO  AddManga:67 - Search performed
+2016-01-19 15:33:47 INFO  Steps:25 - Browser started
+2016-01-19 15:33:47 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:33:52 INFO  LoginPage:49 - Login done
+2016-01-19 15:33:55 INFO  LoginPage:52 - Login performed
+2016-01-19 15:33:57 INFO  AddManga:24 - Search page opened
+2016-01-19 15:34:01 INFO  AddManga:58 - Search done
+2016-01-19 15:34:32 INFO  Steps:25 - Browser started
+2016-01-19 15:34:32 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:34:35 INFO  LoginPage:49 - Login done
+2016-01-19 15:34:37 INFO  LoginPage:52 - Login performed
+2016-01-19 15:34:38 INFO  AddManga:24 - Search page opened
+2016-01-19 15:34:41 INFO  AddManga:58 - Search done
+2016-01-19 15:34:49 INFO  AddManga:68 - Search performed
+2016-01-19 15:36:26 INFO  Steps:25 - Browser started
+2016-01-19 15:36:29 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:36:30 INFO  LoginPage:49 - Login done
+2016-01-19 15:36:35 INFO  LoginPage:52 - Login performed
+2016-01-19 15:36:35 INFO  AddManga:24 - Search page opened
+2016-01-19 15:36:39 INFO  AddManga:58 - Search done
+2016-01-19 15:38:18 INFO  Steps:25 - Browser started
+2016-01-19 15:38:20 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:38:23 INFO  LoginPage:49 - Login done
+2016-01-19 15:38:26 INFO  LoginPage:52 - Login performed
+2016-01-19 15:38:26 INFO  AddManga:24 - Search page opened
+2016-01-19 15:38:29 INFO  AddManga:58 - Search done
+2016-01-19 15:39:12 INFO  Steps:25 - Browser started
+2016-01-19 15:39:14 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:39:15 INFO  LoginPage:49 - Login done
+2016-01-19 15:39:19 INFO  LoginPage:52 - Login performed
+2016-01-19 15:39:20 INFO  AddManga:24 - Search page opened
+2016-01-19 15:39:25 INFO  AddManga:58 - Search done
+2016-01-19 15:41:34 INFO  Steps:25 - Browser started
+2016-01-19 15:41:36 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:41:39 INFO  LoginPage:49 - Login done
+2016-01-19 15:41:43 INFO  LoginPage:52 - Login performed
+2016-01-19 15:41:44 INFO  AddManga:24 - Search page opened
+2016-01-19 15:41:48 INFO  AddManga:58 - Search done
+2016-01-19 15:42:50 INFO  Steps:25 - Browser started
+2016-01-19 15:42:50 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:42:53 INFO  LoginPage:49 - Login done
+2016-01-19 15:42:56 INFO  LoginPage:52 - Login performed
+2016-01-19 15:42:57 INFO  AddManga:24 - Search page opened
+2016-01-19 15:43:00 INFO  AddManga:58 - Search done
+2016-01-19 15:43:07 INFO  AddManga:67 - Search performed
+2016-01-19 15:44:54 INFO  Steps:25 - Browser started
+2016-01-19 15:44:56 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:44:59 INFO  LoginPage:49 - Login done
+2016-01-19 15:45:02 INFO  LoginPage:52 - Login performed
+2016-01-19 15:45:03 INFO  AddManga:24 - Search page opened
+2016-01-19 15:45:07 INFO  AddManga:58 - Search done
+2016-01-19 15:48:24 INFO  Steps:25 - Browser started
+2016-01-19 15:48:26 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:48:27 INFO  LoginPage:49 - Login done
+2016-01-19 15:48:30 INFO  LoginPage:52 - Login performed
+2016-01-19 15:48:30 INFO  AddManga:24 - Search page opened
+2016-01-19 15:48:33 INFO  AddManga:58 - Search done
+2016-01-19 15:49:34 INFO  Steps:25 - Browser started
+2016-01-19 15:49:37 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:49:39 INFO  LoginPage:49 - Login done
+2016-01-19 15:49:41 INFO  LoginPage:52 - Login performed
+2016-01-19 15:49:42 INFO  AddManga:24 - Search page opened
+2016-01-19 15:49:45 INFO  AddManga:58 - Search done
+2016-01-19 15:51:54 INFO  Steps:25 - Browser started
+2016-01-19 15:51:55 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:51:57 INFO  LoginPage:49 - Login done
+2016-01-19 15:51:59 INFO  LoginPage:52 - Login performed
+2016-01-19 15:52:00 INFO  AddManga:24 - Search page opened
+2016-01-19 15:52:03 INFO  AddManga:58 - Search done
+2016-01-19 15:53:01 INFO  Steps:25 - Browser started
+2016-01-19 15:53:03 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:53:05 INFO  LoginPage:49 - Login done
+2016-01-19 15:53:08 INFO  LoginPage:52 - Login performed
+2016-01-19 15:53:08 INFO  AddManga:24 - Search page opened
+2016-01-19 15:53:12 INFO  AddManga:58 - Search done
+2016-01-19 15:53:43 INFO  Steps:25 - Browser started
+2016-01-19 15:53:45 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:53:47 INFO  LoginPage:49 - Login done
+2016-01-19 15:53:49 INFO  LoginPage:52 - Login performed
+2016-01-19 15:53:52 INFO  AddManga:24 - Search page opened
+2016-01-19 15:53:56 INFO  AddManga:58 - Search done
+2016-01-19 15:55:29 INFO  Steps:25 - Browser started
+2016-01-19 15:55:30 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:55:33 INFO  LoginPage:49 - Login done
+2016-01-19 15:55:37 INFO  LoginPage:52 - Login performed
+2016-01-19 15:55:37 INFO  AddManga:24 - Search page opened
+2016-01-19 15:55:40 INFO  AddManga:58 - Search done
+2016-01-19 15:58:21 INFO  Steps:25 - Browser started
+2016-01-19 15:58:22 INFO  LoginPage:42 - Login page opened
+2016-01-19 15:58:23 INFO  LoginPage:49 - Login done
+2016-01-19 15:58:26 INFO  LoginPage:52 - Login performed
+2016-01-19 15:58:27 INFO  AddManga:24 - Search page opened
+2016-01-19 15:58:30 INFO  AddManga:55 - Search done
+2016-01-19 15:58:35 INFO  AddManga:62 - Search performed
+2016-01-19 16:53:15 INFO  Steps:26 - Browser started
+2016-01-19 16:53:16 INFO  LoginPage:42 - Login page opened
+2016-01-19 16:53:18 INFO  LoginPage:49 - Login done
+2016-01-19 16:53:20 INFO  LoginPage:52 - Login performed
+2016-01-19 16:53:21 INFO  Comment:24 - Search page opened
+2016-01-19 16:53:24 INFO  Comment:49 - Search done
+2016-01-19 16:53:26 INFO  Comment:53 - Search performed
+2016-01-19 16:54:48 INFO  Steps:26 - Browser started
+2016-01-19 16:54:48 INFO  LoginPage:42 - Login page opened
+2016-01-19 16:54:52 INFO  LoginPage:49 - Login done
+2016-01-19 16:54:56 INFO  LoginPage:52 - Login performed
+2016-01-19 16:54:58 INFO  Comment:24 - Search page opened
+2016-01-19 16:55:01 INFO  Comment:49 - Search done
+2016-01-19 16:55:07 INFO  Comment:55 - Search performed
+2016-01-19 17:01:03 INFO  Steps:26 - Browser started
+2016-01-19 17:02:26 INFO  Steps:26 - Browser started
+2016-01-19 17:04:07 INFO  Steps:26 - Browser started
+2016-01-19 17:04:08 INFO  LoginPage:42 - Login page opened
+2016-01-19 17:04:11 INFO  LoginPage:49 - Login done
+2016-01-19 17:04:14 INFO  LoginPage:52 - Login performed
+2016-01-19 17:04:15 INFO  Comment:24 - Search page opened
+2016-01-19 17:04:18 INFO  Comment:49 - Search done
+2016-01-19 17:04:24 INFO  Comment:55 - Search performed
+2016-01-19 17:06:45 INFO  Steps:26 - Browser started
+2016-01-19 17:06:45 INFO  LoginPage:42 - Login page opened
+2016-01-19 17:07:05 INFO  Steps:26 - Browser started
+2016-01-19 17:07:08 INFO  LoginPage:42 - Login page opened
+2016-01-19 17:07:11 INFO  LoginPage:49 - Login done
+2016-01-19 17:07:13 INFO  LoginPage:52 - Login performed
+2016-01-19 17:07:15 INFO  Comment:24 - Search page opened
+2016-01-19 17:07:18 INFO  Comment:49 - Search done
+2016-01-19 17:07:24 INFO  Comment:55 - Search performed
+2016-01-19 17:32:26 INFO  Steps:23 - Browser started
+2016-01-19 17:32:27 INFO  LoginPage:42 - Login page opened
+2016-01-19 17:32:28 INFO  LoginPage:49 - Login done
+2016-01-19 17:32:31 INFO  LoginPage:52 - Login performed
+2016-01-19 17:32:31 INFO  AboutMe:24 - Search page opened
+2016-01-19 17:35:26 INFO  Steps:23 - Browser started
+2016-01-19 17:35:27 INFO  LoginPage:42 - Login page opened
+2016-01-19 17:35:29 INFO  LoginPage:49 - Login done
+2016-01-19 17:35:31 INFO  LoginPage:52 - Login performed
+2016-01-19 17:35:32 INFO  AboutMe:24 - Search page opened
